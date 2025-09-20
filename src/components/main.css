@@ -73,3 +73,8 @@
     border: none;
 }
 
+@media (max-width: 600px) {
+    .ingreso-container > form{
+        width: 90%;
+    }
+}
