@@ -1,7 +1,7 @@
 import "./flowers.css";
 export default function Flowers() {
   return (
-    <div className="containter">
+    <div className="container">
       <div className="night"></div>
       <div className="flowers">
         <div className="flower flower--1">
